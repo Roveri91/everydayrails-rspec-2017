@@ -13,6 +13,8 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
+# Gem added manually
+gem 'mimemagic', '0.3.8'
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.6.0'  #added rspec as a dependency
