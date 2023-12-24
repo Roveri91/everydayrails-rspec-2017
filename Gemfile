@@ -14,6 +14,7 @@ gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 # Gem added manually
+gem 'psych', '~> 3.1'
 gem 'mimemagic', '0.3.8'
 
 group :development, :test do
